@@ -11,7 +11,7 @@ html {
     font-size: 1.6rem;
     line-height: 1.5;
     text-align: center;
-    color: #333;
+    color: #393e46;
     margin: 0;
   }
 
@@ -23,7 +23,7 @@ html {
   @media (max-width: 460px) {
     h1 {
       font-size: 3.5rem;
-      line-height: 1.2;
+      line-height: 1.5;
     }
   }
   
@@ -50,7 +50,7 @@ html {
     #main {
       margin: 0;
     }
-  }
+  } 
 
   img {
     max-width: 100%;
@@ -79,16 +79,11 @@ html {
     margin: 50px 0;
     text-align: center;
   }
-
-  #headline {
-    margin: 50px 0;
-    text-align: center;
-  }
     
   ul {
     max-width: 550px;
     margin: 0 auto 50px auto;
-    text-align: left;
+    text-align: justify;
     line-height: 1.6;
   }
 
